@@ -55,7 +55,7 @@
 				<version>3.12.1</version>
 			</plugin>
 		</plugins>
-		<finalName>docker-jenkins-integration</finalName>
+		<finalName>devops-integration</finalName>
 	</build>
 
 </project>
